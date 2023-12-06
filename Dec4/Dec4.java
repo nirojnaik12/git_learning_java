@@ -1,3 +1,4 @@
+package Dec4;
 public class Dec4 {
     int x=5;
 

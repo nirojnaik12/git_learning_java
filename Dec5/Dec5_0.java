@@ -1,3 +1,4 @@
+package Dec5;
 public class Dec5_0
 {
     private String name= "are bhai how r u";
